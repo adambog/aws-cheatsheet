@@ -2,6 +2,7 @@
 Cheatsheet for Amazon AWS Services
 
 ## Sample Lambda Function
+- create Lambda function in AWS Management Console
 - install .NET 
 - install Amazon Lambda templates
 ```dotnet new -i Amazon.Lambda.Templates::*```
